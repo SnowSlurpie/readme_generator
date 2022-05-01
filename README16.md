@@ -24,11 +24,3 @@ Please contact me with any question
 runniale000@gmail.com
 *Github:
 https://github.com/SnowSlurpie
-
-### DEMO LINK
-
-[HERE](https://drive.google.com/file/d/1qAL_RZPXIAZsa0QxwSZLVwhq3kRigXBk/view)
-
-### Layout
-
-![readme.md Layout](./assets/picture.png)
